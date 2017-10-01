@@ -5,7 +5,7 @@ Three directions of semi-supervised graph-based classification
 * graph regularization
 * deep learning(graph convolutional networks)
 
-We came up with new methods for direction 1 and direction 2. Code implemented in Python, method1 and method3 are implemented using tensorflow, and method2 we have implemented self-drived algorithm. Method3 is adapted from the [first author's implementation](https://github.com/tkipf/gcn) on github. All codes tested on real dataset. 
+We came up with new methods for direction 1 and direction 2. Code implemented in Python, method1 and method3 are implemented using tensorflow, and method2 we have implemented self-drived algorithm. Method3 is adapted from the [first author's implementation](https://github.com/tkipf/gcn) on github, you will have to call the Python class from the original repo to run the GCN.py code. All codes tested on real dataset. 
 
 ## Markov Random Field
 ### (1) MCMC and Mean Field/ Loopy Belief Propagation
