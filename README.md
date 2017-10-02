@@ -15,7 +15,7 @@ The toy example of the naive mean field with closed form update solution is impl
 Implement structure2vec from [Hanjun Dai's paper](https://arxiv.org/abs/1603.05629) in Pure Python. The vanila version of the embedding mean field is implemented in [this notebook](https://github.com/DanqingZ/semi-supervised-graph-based-classification/blob/master/mean_field.ipynb).
 
 ### (3)Discriminative Mean Field
-The toy version is implemented in [this notebook](https://github.com/DanqingZ/semi-supervised-graph-based-classification). Check [graphsage](https://github.com/williamleif/GraphSAGE) mean aggregator method, which is very similar to the Discriminative Mean Field.
+The toy version is implemented in [this notebook](https://github.com/DanqingZ/semi-supervised-graph-based-classification/blob/master/structure2vec_toy.ipynb). Check [graphsage](https://github.com/williamleif/GraphSAGE) mean aggregator method, which is very similar to the Discriminative Mean Field.
 
 ### (4) Exploration
 Joint probability distribution of two nodes on an edge in the Markov Random Field. This problem is not of interest to the graph node classification, but is worth exploring.
