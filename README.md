@@ -31,3 +31,4 @@ Joint probability distribution of two nodes on an edge in the Markov Random Fiel
 * [Multi-Graph Convolutional Neural Networks](https://github.com/fmonti/mgcnn)
 * [Network Lasso](https://github.com/davidhallac/NetworkLasso)
 * [Training computational graph on top of structured data (string, graph, etc)](https://github.com/Hanjun-Dai/graphnn)
+* [GEM is a Python module that implements many graph (a.k.a. network) embedding algorithms. GEM is distributed under BSD license.](https://github.com/palash1992/GEM)
