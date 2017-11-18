@@ -19,3 +19,15 @@ The toy version is implemented in [this notebook](https://github.com/DanqingZ/se
 
 ### (4) Exploration
 Joint probability distribution of two nodes on an edge in the Markov Random Field. This problem is not of interest to the graph node classification, but is worth exploring.
+
+
+## Graph Algorithms
+* [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
+* [Semi-supervised learning with graph embeddings](https://github.com/kimiyoung/planetoid)
+* [Representation learning on large graphs using stochastic graph convolutions](https://github.com/williamleif/GraphSAGE)
+* [social Discrete Choice Models in Python](https://github.com/DanqingZ/social-DCM)
+* [Representation learning on large graphs using stochastic graph convolutions](https://github.com/williamleif/GraphSAGE)
+* [Embedded Graph Convolutional Neural Networks (EGCNN) in TensorFlow](https://github.com/rusty1s/embedded_gcnn)
+* [Multi-Graph Convolutional Neural Networks](https://github.com/fmonti/mgcnn)
+* [Network Lasso](https://github.com/davidhallac/NetworkLasso)
+* [Training computational graph on top of structured data (string, graph, etc)](https://github.com/Hanjun-Dai/graphnn)
